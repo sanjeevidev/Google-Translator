@@ -7,4 +7,4 @@ Google-Translator | Sanjeevi Kumar .
 
 # More Info
 <b>Author:</b> Sanjeevi Kumar.
-<b>Designer & Developer:</b> <a href="#" target="_blank">Gobala Krishnan</a>
+<b>Designer & Developer:</b> <a href="#" target="_blank">Sanjeevi Kumar</a>
