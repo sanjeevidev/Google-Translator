@@ -1,3 +1,14 @@
+main
+# Google-Translator
+
+Google-Translator | Sanjeevi Kumar .
+
+# Links
+<b>Live Link:</b> <a href="#" target="_blank">Live Link.</a>
+
+# More Info
+<b>Author:</b> Sanjeevi Kumar.
+<b>Designer & Developer:</b> <a href="#" target="_blank">Sanjeevi Kumar</a>
 # Language Translator
 
 Language Translator is a simple GUI application built using Python and the Tkinter library. It allows you to translate text from one language to another using the Google Translate API.
@@ -65,3 +76,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## Contact
 
 For any questions or inquiries, please contact [github.com/sanjeevidev]
+main
